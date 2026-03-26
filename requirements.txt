@@ -1,2 +1,5 @@
 ipykernel
 setuptools
+Pillow # images analysis
+pandas
+matplotlib
